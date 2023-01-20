@@ -4,7 +4,7 @@ Projeto contendo documentação, versões, roadmap e informações gerais sobre 
 
 Este é um projeto desenvolvido pela [Garbo Software](https://garbosoftware.com.br).
 
-<img src="https://github.com/garbosoftware/garbo-bi-doc/blob/main/public/searcg.png?raw=true" alt="Preview of analytics" />
+<img src="https://github.com/garbosoftware/garbo-bi-doc/blob/main/public/search.png?raw=true" alt="Preview of analytics" />
 
 ## Instalação
 
